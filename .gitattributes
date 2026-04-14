@@ -1,0 +1,3 @@
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+README.md linguist-detectable=false
